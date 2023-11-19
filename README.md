@@ -11,7 +11,6 @@
  ●	System - Windows 7 or higher, 1 GB RAM.
 
 ### PROCEDURE:
-
 ### Assembly of Delta 3D Printer
  1.	Select 'Assembly of Delta 3D Printer' from the visible list.
  2.	All the parts related to Delta 3D Printer will be shown on the screen.
@@ -25,13 +24,13 @@
  2.	Move the z2-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z2-axis assembly.
  3.	Move the z3-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z3-axis assembly.
 
-## OUTPUT:
+### OUTPUT:
 ![image](https://github.com/22002102/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/119091638/97c3f1b7-d289-46eb-9d88-7615344f128d)
 
 
 <img src=https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066 wight=450 height=450>
 
-## Output:
+### Output:
 <img src=https://github.com/22002102/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/119091638/cd3f9fa4-7b04-415d-9599-d5c63333ddf4 wight=450 height=450>
 
 ### Name: SANJAY S
